@@ -1,0 +1,10 @@
+{
+	"autoload" : {
+		"psr-4" : {
+			"Dummy\\" : "src"
+		}
+	},
+	"require": {
+		"webmozart/json": "^1.2"
+	}
+}
